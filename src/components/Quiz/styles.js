@@ -42,14 +42,14 @@ export const OptionsList = styled.ul`
 export const Options = styled.li`
   list-style-type: none;
   margin: 10px 0;
-  width: 80%; /* Ensure the width is 80% of the parent */
+  width: 80%;
   display: flex;
   justify-content: center;
 `;
 
 export const OptionButton = styled.button`
   width: 100%;
-  max-width: 400px;
+  max-width: 800px;
   padding: 15px;
   border: 5px solid #000000;
   border-radius: 45px;
