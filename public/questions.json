@@ -21,5 +21,11 @@
         "pergunta": "4 - Qual é a importância das árvores para o meio ambiente?",
         "opcoes": ["Produzem alimentos para os animais", "Fornecem madeira para construções", "Melhoram a qualidade do ar", "Bloqueiam a luz solar", "São apenas decoração"],
         "resposta_correta": "Melhoram a qualidade do ar"
+    },
+
+    {
+        "pergunta": "5 - O que é reciclagem?",
+        "opcoes": ["Jogar lixo no chão", "Reutilizar materiais para fazer novos produtos", "Comprar produtos novos", "Usar sacolas plásticas no mercado", "Queimar resíduos no quintal"],
+        "resposta_correta": "Reutilizar materiais para fazer novos produtos"
     }
 ]
