@@ -1,0 +1,25 @@
+[
+    {
+        "pergunta": "1 - Qual é a maneira correta de descartar uma garrafa de plástico?",
+        "opcoes": ["Jogar no lixo comum", "Jogar no rio", "Queimar no quintal", "Reciclar", "Enterrar no jardim"],
+        "resposta_correta": "Reciclar"
+    },
+
+    {
+        "pergunta": "2 - Qual desses materiais leva mais tempo para se decompor na natureza?",
+        "opcoes": ["Papel", "Vidro", "Casca de banana", "Pedaço de pão", "Folha de árvore"],
+        "resposta_correta": "Vidro"
+    },
+
+    {
+        "pergunta": "3 - O que podemos fazer para economizar água em casa?",
+        "opcoes": ["Tomar banhos longos", "Deixar a torneira aberta enquanto escovamos os dentes", "Regar as plantas durante o dia", "Consertar vazamentos", "Lavar o carro todos os dias"],
+        "resposta_correta": "Consertar vazamentos"
+    },
+
+    {
+        "pergunta": "4 - Qual é a importância das árvores para o meio ambiente?",
+        "opcoes": ["Produzem alimentos para os animais", "Fornecem madeira para construções", "Melhoram a qualidade do ar", "Bloqueiam a luz solar", "São apenas decoração"],
+        "resposta_correta": "Melhoram a qualidade do ar"
+    }
+]
