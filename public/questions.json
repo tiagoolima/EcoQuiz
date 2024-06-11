@@ -27,5 +27,156 @@
         "pergunta": "5 - O que é reciclagem?",
         "opcoes": ["Jogar lixo no chão", "Reutilizar materiais para fazer novos produtos", "Comprar produtos novos", "Usar sacolas plásticas no mercado", "Queimar resíduos no quintal"],
         "resposta_correta": "Reutilizar materiais para fazer novos produtos"
+    },
+
+    {
+        "pergunta": "6 - Como podemos reduzir a quantidade de lixo que produzimos?",
+        "opcoes": ["Usando produtos descartáveis", "Comprando mais coisas", "Reduzindo, reutilizando e reciclando", "Jogando tudo fora", "Não se preocupando com o lixo"],
+        "resposta_correta": "Reduzindo, reutilizando e reciclando"
+    },
+
+    {
+        "pergunta": "7 - O que devemos fazer com o óleo de cozinha usado?",
+        "opcoes": ["Jogar na pia", "Jogar no vaso sanitário", "Guardar em um recipiente e levar para reciclagem", "Jogar no quintal", "Misturar com lixo comum"],
+        "resposta_correta": "Guardar em um recipiente e levar para reciclagem"
+    },
+
+    {
+        "pergunta": "8 - Qual é a principal causa do aquecimento global?",
+        "opcoes": ["Uso de bicicletas", "Plantio de árvores", "Queima de combustíveis fósseis", "Uso de energia solar", "Consumo de alimentos orgânicos"],
+        "resposta_correta": "Queima de combustíveis fósseis"
+    },
+
+    {
+        "pergunta": "9 - Qual dessas ações ajuda a proteger a vida marinha?",
+        "opcoes": ["Jogar lixo na praia", "Usar canudos de plástico", "Reduzir o uso de plásticos", "Pescar sem limite", "Usar produtos químicos no jardim"],
+        "resposta_correta": "Reduzir o uso de plásticos"
+    },
+
+    {
+        "pergunta": "10 - Por que é importante separar o lixo reciclável do lixo comum?",
+        "opcoes": ["Para fazer mais lixo", "Para queimar mais facilmente", "Para facilitar a reciclagem e reduzir a poluição", "Para ocupar mais espaço", "Para sujar mais o ambiente"],
+        "resposta_correta": "Para facilitar a reciclagem e reduzir a poluição"
+    },
+
+    {
+        "pergunta": "11 - O que é compostagem?",
+        "opcoes": ["Jogar lixo no rio", "Queimar resíduos no quintal", "Transformar resíduos orgânicos em adubo", "Comprar adubo químico", "Descartar alimentos no lixo comum"],
+        "resposta_correta": "Transformar resíduos orgânicos em adubo"
+    },
+
+    {
+        "pergunta": "12 - Qual dessas atitudes NÃO é amigável ao meio ambiente?",
+        "opcoes": ["Usar garrafas reutilizáveis", "Andar de bicicleta", "Reciclar papel e plástico", "Deixar luzes acesas quando não são necessárias", "Plantar árvores"],
+        "resposta_correta": "Deixar luzes acesas quando não são necessárias"
+    },
+
+    {
+        "pergunta": "13 - O que é poluição do ar?",
+        "opcoes": ["Qualidade do ar boa para respirar", "Ar limpo nas florestas", "Presença de substâncias nocivas no ar", "Apenas nuvens no céu", "Ventos fortes"],
+        "resposta_correta": "Presença de substâncias nocivas no ar"
+    },
+    
+    {
+        "pergunta": "14 - Qual dessas fontes de energia é renovável?",
+        "opcoes": ["Carvão", "Petróleo", "Energia solar", "Gás natural", "Energia nuclear"],
+        "resposta_correta": "Energia solar"
+    },
+        
+    {
+        "pergunta": "15 - O que devemos fazer com pilhas e baterias usadas?",
+        "opcoes": ["Jogar no lixo comum", "Jogar na rua", "Levar a um ponto de coleta específico para reciclagem", "Queimar", "Enterrar no jardim"],
+        "resposta_correta": "Levar a um ponto de coleta específico para reciclagem"
+    },
+        
+    {
+        "pergunta": "16 - Qual é a melhor prática para reduzir a poluição causada por veículos?",
+        "opcoes": ["Usar carros grandes", "Dirigir sozinho", "Usar transporte público ou bicicleta", "Manter o motor ligado parado", "Usar gasolina"],
+        "resposta_correta": "Usar transporte público ou bicicleta"
+    },
+        
+    {
+        "pergunta": "17 - O que são recursos naturais?",
+        "opcoes": ["Produtos feitos pelo homem", "Itens que compramos no mercado", "Materiais fornecidos pela natureza, como água e madeira", "Tecnologia avançada", "Roupas e acessórios"],
+        "resposta_correta": "Materiais fornecidos pela natureza, como água e madeira"
+    },
+        
+    {
+        "pergunta": "18 - Qual é a consequência do desmatamento?",
+        "opcoes": ["Aumento da biodiversidade", "Melhora da qualidade do ar", "Perda de habitat para animais e plantas", "Redução do aquecimento global", "Mais áreas para plantar árvores"],
+        "resposta_correta": "Perda de habitat para animais e plantas"
+    },
+        
+    {
+        "pergunta": "19 - Como podemos ajudar a proteger a água dos rios e lagos?",
+        "opcoes": ["Jogando lixo na água", "Usando produtos químicos nas margens", "Evitando poluentes e resíduos na água", "Pescar em excesso", "Derramar óleo na água"],
+        "resposta_correta": "Evitando poluentes e resíduos na água"
+    },
+        
+    {
+        "pergunta": "20 - O que é sustentabilidade?",
+        "opcoes": ["Uso excessivo dos recursos naturais", "Viver de uma maneira que não prejudique o meio ambiente e preserve os recursos para o futuro", "Destruir florestas para construir cidades", "Poluir o ar e a água", "Desperdiçar energia e água"],
+        "resposta_correta": "Viver de uma maneira que não prejudique o meio ambiente e preserve os recursos para o futuro"
+    },
+        
+    {
+        "pergunta": "21 - Qual das seguintes opções representa corretamente as cores dos cestos de reciclagem para papel, plástico, vidro, metal e resíduos orgânicos, respectivamente?",
+        "opcoes": ["Vermelho, Azul, Verde, Amarelo, Marrom", "Azul, Vermelho, Verde, Amarelo, Marrom", "Amarelo, Verde, Azul, Marrom, Vermelho", "Verde, Amarelo, Azul, Vermelho, Marrom", "Azul, Verde, Vermelho, Amarelo, Marrom"],
+        "resposta_correta": "Azul, Vermelho, Verde, Amarelo, Marrom"
+    },
+        
+    {
+        "pergunta": "22 - Que dia é comemorado o Dia Mundial do Meio Ambiente?",
+        "opcoes": ["22 de março", "5 de junho", "21 de setembro", "15 de outubro", "1º de dezembro"],
+        "resposta_correta": "5 de junho"
+    },
+        
+    {
+        "pergunta": "23 - Que dia é comemorado o Dia Mundial da Água?",
+        "opcoes": ["22 de março", "5 de junho", "21 de setembro", "15 de outubro", "1º de dezembro"],
+        "resposta_correta": "22 de março"
+    },
+        
+    {
+        "pergunta": "24 - O que significa a sigla \"RSU\" no contexto ambiental?",
+        "opcoes": ["Resíduos Sólidos Urbanos", "Reciclagem Sustentável Unificada", "Reutilização de Substâncias Úteis", "Redução de Substâncias Urbanas", "Resíduos Sustentáveis Urbanos"],
+        "resposta_correta": "Resíduos Sólidos Urbanos"
+    },
+        
+    {
+        "pergunta": "25 - Qual das seguintes ações NÃO contribui para a preservação ambiental?",
+        "opcoes": ["Usar transporte público", "Plantar árvores", "Deixar aparelhos eletrônicos em stand-by", "Reduzir o consumo de plástico", "Economizar água"],
+        "resposta_correta": "Deixar aparelhos eletrônicos em stand-by"
+    },
+        
+    {
+        "pergunta": "26 - O que é um ecossistema?",
+        "opcoes": ["Um local de recreação ao ar livre", "Uma comunidade de seres vivos interagindo com o ambiente", "Um tipo de energia renovável", "Um programa de computador", "Um tipo de resíduo reciclável"],
+        "resposta_correta": "Uma comunidade de seres vivos interagindo com o ambiente"
+    },
+        
+    {
+        "pergunta": "27 - O que é biodiversidade?",
+        "opcoes": ["A variedade de culturas em uma região", "A variedade de espécies de plantas e animais em um ambiente", "A diversidade de opções de transporte público", "A variedade de produtos em um supermercado", "A diversidade de programas de TV"],
+        "resposta_correta": "A variedade de espécies de plantas e animais em um ambiente"
+    },
+        
+    {
+        "pergunta": "28 - Por que é importante reduzir o consumo de energia elétrica?",
+        "opcoes": ["Para economizar dinheiro apenas", "Para reduzir a emissão de gases de efeito estufa", "Para aumentar a produção de energia", "Para manter as luzes acesas por mais tempo", "Para evitar o uso de aparelhos elétricos"],
+        "resposta_correta": "Para reduzir a emissão de gases de efeito estufa"
+    },
+        
+    {
+        "pergunta": "29 - Qual das seguintes atitudes ajuda a proteger as florestas?",
+        "opcoes": ["Comprar móveis de madeira ilegal", "Desperdiçar papel", "Apoiar produtos certificados e sustentáveis", "Jogar lixo nas trilhas", "Fazer fogueiras em áreas florestais"],
+        "resposta_correta": "Apoiar produtos certificados e sustentáveis"
+    },
+        
+    {
+        "pergunta": "30 - Por que devemos evitar o uso de sacolas plásticas?",
+        "opcoes": ["Porque são caras", "Porque demoram muitos anos para se decompor e poluem o ambiente", "Porque são coloridas", "Porque são difíceis de carregar", "Porque ocupam muito espaço em casa"],
+        "resposta_correta": "Porque demoram muitos anos para se decompor e poluem o ambiente"
     }
+    
 ]

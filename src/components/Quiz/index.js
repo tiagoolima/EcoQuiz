@@ -27,7 +27,7 @@ const Quiz = () => {
     } else {
       handleNextQuestion();
     }
-  }, );
+  }, [timer]);
 
   const handleAnswerClick = (option) => {
     const currentQuestion = questions[currentQuestionIndex];
@@ -63,7 +63,7 @@ const Quiz = () => {
 
   const handleNextQuestion = () => {
     setTimer(60);
-    setCurrentQuestionIndex((prevIndex) => (prevIndex + 1) % questions.length);
+    setCurrentQuestionIndex((prevIndex) => prevIndex + 1);
   };
 
   if (questions.length === 0) {
@@ -71,6 +71,10 @@ const Quiz = () => {
   }
 
   const currentQuestion = questions[currentQuestionIndex];
+
+  if (!currentQuestion) {
+    return <div>Quiz completo!</div>;
+  }
 
   return (
     <Tittle>
