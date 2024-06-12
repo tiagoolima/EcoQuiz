@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Button from './components/Button';
-import Quiz from './components/Quiz/index.js'; // Certifique-se de que o caminho está correto
+import Quiz from './components/Quiz/index.js';
 import Terra from './assets/gif.gif';
 import Logo from './assets/logo.png';
 import { Tela, Container, Imagem, ImagemLogo } from './styles';
