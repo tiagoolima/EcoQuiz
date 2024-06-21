@@ -138,9 +138,9 @@
     },
         
     {
-        "pergunta": "24 - O que significa a sigla \"RSU\" no contexto ambiental?",
-        "opcoes": ["Resíduos Sólidos Urbanos", "Reciclagem Sustentável Unificada", "Reutilização de Substâncias Úteis", "Redução de Substâncias Urbanas", "Resíduos Sustentáveis Urbanos"],
-        "resposta_correta": "Resíduos Sólidos Urbanos"
+        "pergunta": "24 - Quantos anos está fazendo o Programa Agrinho?",
+        "opcoes": ["7 anos", "28 anos", "29 anos", "20 anos", "15 anos"],
+        "resposta_correta": "20 anos"
     },
         
     {
